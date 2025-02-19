@@ -10,3 +10,5 @@ def index():
 def index():
     return render_template('alumnos.html')
 
+
+test
